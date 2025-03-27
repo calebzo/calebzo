@@ -42,4 +42,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/calebzo/Planning-Security-Operations-and-Monitoring-using-Risk-Control-Mapping">Planning Security Operations and Monitoring using Risk Control Mapping</a>
-- SOC Automation Project
+- <a href="https://github.com/calebzo/Creating-an-AI-Usage-Policy-for-Organizational-Security/blob/main/README.md">Creating an AI Usage Policy for Organizational Security</a>
